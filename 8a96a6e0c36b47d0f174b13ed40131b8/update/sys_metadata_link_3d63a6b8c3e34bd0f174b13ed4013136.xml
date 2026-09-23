@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>b5f12274c3e34bd0f174b13ed4013168</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="http_connection">
+    <http_connection action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_scope display_value=" IPInfo Spoke">8a96a6e0c36b47d0f174b13ed40131b8</app_scope>
+        <application display_value="ALL">35aa573fd7802200bdbaee5b5e610375</application>
+        <base_path/>
+        <capabilities/>
+        <connection_alias display_value="x_1365217_ipinfo_0.Rebrickable">95b02630c3e34bd0f174b13ed40131e5</connection_alias>
+        <connection_retries>0</connection_retries>
+        <connection_timeout/>
+        <connection_url>https://www.rebrickable.com/api/v3</connection_url>
+        <credential/>
+        <extended_attributes/>
+        <host>www.rebrickable.com</host>
+        <is_internal>false</is_internal>
+        <mid_cluster/>
+        <mid_protocol_profile/>
+        <mid_selection>auto_select</mid_selection>
+        <mid_server/>
+        <mutual_auth>false</mutual_auth>
+        <name>Rebrickable v3</name>
+        <order>100</order>
+        <port/>
+        <protocol>https</protocol>
+        <protocol_profile/>
+        <sys_class_name>http_connection</sys_class_name>
+        <sys_created_by>Syeda</sys_created_by>
+        <sys_created_on>2026-09-23 08:36:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b5f12274c3e34bd0f174b13ed4013168</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Syeda</sys_updated_by>
+        <sys_updated_on>2026-09-23 08:36:35</sys_updated_on>
+        <url_builder>false</url_builder>
+        <use_mid>false</use_mid>
+    </http_connection>
+    <sys_variable_value action="delete_multiple" query="document_key=b5f12274c3e34bd0f174b13ed4013168"/>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Syeda</sys_created_by>
+        <sys_created_on>2026-09-23 08:41:25</sys_created_on>
+        <sys_id>3d63a6b8c3e34bd0f174b13ed4013136</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rebrickable v3</sys_name>
+        <sys_package display_value=" IPInfo Spoke" source="x_1365217_ipinfo_0">8a96a6e0c36b47d0f174b13ed40131b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" IPInfo Spoke">8a96a6e0c36b47d0f174b13ed40131b8</sys_scope>
+        <sys_update_name>sys_metadata_link_3d63a6b8c3e34bd0f174b13ed4013136</sys_update_name>
+        <sys_updated_by>Syeda</sys_updated_by>
+        <sys_updated_on>2026-09-23 08:41:25</sys_updated_on>
+        <tablename>sys_connection</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>e12fb515a3f382106cdec213d51e61d2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="http_connection">
+    <http_connection action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_scope display_value="Omni-Experience Standard Feature Set">53b1b0e79761011018b2fa98c253afcc</app_scope>
+        <application display_value="ALL">35aa573fd7802200bdbaee5b5e610375</application>
+        <base_path/>
+        <capabilities/>
+        <connection_alias display_value="sn_oe_sfs.Sidebar_Slack_Credentials">cafe3515a3f382106cdec213d51e61bf</connection_alias>
+        <connection_retries>0</connection_retries>
+        <connection_timeout/>
+        <connection_url>https://slack.com</connection_url>
+        <credential display_value="Sidebar Slack Credentials">816c80d9a30452106cdec213d51e61cf</credential>
+        <extended_attributes/>
+        <host>slack.com</host>
+        <is_internal>false</is_internal>
+        <mid_cluster/>
+        <mid_protocol_profile/>
+        <mid_selection>auto_select</mid_selection>
+        <mid_server/>
+        <mutual_auth>false</mutual_auth>
+        <name>Sidebar Slack Connection</name>
+        <order>100</order>
+        <port/>
+        <protocol>https</protocol>
+        <protocol_profile/>
+        <sys_class_name>http_connection</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-02 20:51:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e12fb515a3f382106cdec213d51e61d2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-14 22:45:49</sys_updated_on>
+        <url_builder>false</url_builder>
+        <use_mid>false</use_mid>
+    </http_connection>
+    <sys_variable_value action="delete_multiple" query="document_key=e12fb515a3f382106cdec213d51e61d2"/>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Syeda</sys_created_by>
+        <sys_created_on>2026-09-23 08:41:25</sys_created_on>
+        <sys_id>3563a6b8c3e34bd0f174b13ed401313c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sidebar Slack Connection</sys_name>
+        <sys_package display_value=" IPInfo Spoke" source="x_1365217_ipinfo_0">8a96a6e0c36b47d0f174b13ed40131b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" IPInfo Spoke">8a96a6e0c36b47d0f174b13ed40131b8</sys_scope>
+        <sys_update_name>sys_metadata_link_3563a6b8c3e34bd0f174b13ed401313c</sys_update_name>
+        <sys_updated_by>Syeda</sys_updated_by>
+        <sys_updated_on>2026-09-23 08:41:25</sys_updated_on>
+        <tablename>sys_connection</tablename>
+    </sys_metadata_link>
+</record_update>
